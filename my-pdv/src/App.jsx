@@ -12,7 +12,7 @@ Features implemented:
 - Impressão de comanda (área de impressão)
 
 Dependências (instalar no projeto):
-- npm install xlsx uuid
+- npm install xlsx uuid instalado
 
 Como usar:
 1) Crie um projeto React (Vite ou CRA). Exemplo com Vite:
